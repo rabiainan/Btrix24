@@ -8,9 +8,15 @@ System.out.println("hello world");
   //this line is added from github
 
 }
+
  public void hi(){
 
     System.out.println("hi from intelj");
 
  }
+
+public String hello(){
+return "hello";
+}
+
 }
