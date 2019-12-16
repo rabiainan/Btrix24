@@ -11,9 +11,9 @@ System.out.println("hello world");
 
  public void hi(){
 
-    System.out.println("hi from intelj");
+        System.out.println("hi from intelj");
 
- }
+    }
 
 public String hello(){
 return "hello";
