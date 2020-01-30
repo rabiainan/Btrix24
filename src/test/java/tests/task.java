@@ -15,8 +15,7 @@ System.out.println("hello world");
 
     }
 
-public String hello(){
-return "hello";
-}
+ }
 
-}
+
+
